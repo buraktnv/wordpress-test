@@ -1,0 +1,80 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed May 14 22:22:28.301777 2025] [mpm_event:notice] [pid 25117:tid 126221509690112] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed May 14 22:22:28.301873 2025] [core:notice] [pid 25117:tid 126221509690112] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Thu May 15 10:47:48.892242 2025] [mpm_event:notice] [pid 25117:tid 126221509690112] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu May 15 10:47:58.938877 2025] [mpm_event:notice] [pid 101965:tid 132198930277120] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu May 15 10:47:58.938963 2025] [core:notice] [pid 101965:tid 132198930277120] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Thu May 15 20:10:46.250854 2025] [core:notice] [pid 101965:tid 132198930277120] AH00051: child pid 101976 exit signal Segmentation fault (11), possible coredump in /home/burak/.config/Local/run/I9OpGBmNu/apache
+[Thu May 15 20:10:46.253648 2025] [mpm_event:notice] [pid 101965:tid 132198930277120] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu May 15 20:10:49.960381 2025] [mpm_event:notice] [pid 179860:tid 132845121823488] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu May 15 20:10:49.960461 2025] [core:notice] [pid 179860:tid 132845121823488] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Fri May 16 23:49:38.726304 2025] [mpm_event:notice] [pid 179860:tid 132845121823488] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Mon May 19 09:10:02.619473 2025] [mpm_event:notice] [pid 205821:tid 138749823087360] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon May 19 09:10:02.619540 2025] [core:notice] [pid 205821:tid 138749823087360] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Tue May 20 06:31:22.553131 2025] [mpm_event:notice] [pid 205821:tid 138749823087360] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 20 08:52:02.720490 2025] [mpm_event:notice] [pid 34136:tid 124952138949376] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue May 20 08:52:02.720557 2025] [core:notice] [pid 34136:tid 124952138949376] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Tue May 20 16:12:01.711247 2025] [mpm_event:notice] [pid 34136:tid 124952138949376] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 20 16:12:03.886895 2025] [mpm_event:notice] [pid 153424:tid 130408736035584] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue May 20 16:12:03.886967 2025] [core:notice] [pid 153424:tid 130408736035584] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Tue May 20 22:48:46.071834 2025] [mpm_event:notice] [pid 153424:tid 130408736035584] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed May 21 12:58:28.110179 2025] [mpm_event:notice] [pid 100144:tid 135851037258496] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed May 21 12:58:28.110255 2025] [core:notice] [pid 100144:tid 135851037258496] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Wed May 21 16:47:24.873983 2025] [mpm_event:notice] [pid 100144:tid 135851037258496] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed May 21 17:12:02.486093 2025] [mpm_event:notice] [pid 75297:tid 140215632352000] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed May 21 17:12:02.486152 2025] [core:notice] [pid 75297:tid 140215632352000] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Wed May 21 21:33:45.175151 2025] [mpm_event:notice] [pid 75297:tid 140215632352000] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu May 22 09:38:45.940463 2025] [mpm_event:notice] [pid 43686:tid 135027968946944] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu May 22 09:38:45.940529 2025] [core:notice] [pid 43686:tid 135027968946944] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Fri May 23 00:52:36.296897 2025] [mpm_event:notice] [pid 43686:tid 135027968946944] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Fri May 23 00:52:38.601010 2025] [mpm_event:notice] [pid 155579:tid 135843377505024] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri May 23 00:52:38.601076 2025] [core:notice] [pid 155579:tid 135843377505024] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Fri May 23 18:58:43.487956 2025] [mpm_event:notice] [pid 155579:tid 135843377505024] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 24 12:05:42.529554 2025] [mpm_event:notice] [pid 57235:tid 129255851516672] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat May 24 12:05:42.529627 2025] [core:notice] [pid 57235:tid 129255851516672] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Sat May 24 12:07:54.122174 2025] [mpm_event:notice] [pid 57235:tid 129255851516672] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 24 12:07:56.722391 2025] [mpm_event:notice] [pid 57833:tid 137659479491328] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat May 24 12:07:56.722475 2025] [core:notice] [pid 57833:tid 137659479491328] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Sat May 24 12:08:15.076077 2025] [mpm_event:notice] [pid 57833:tid 137659479491328] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Sat May 24 12:08:17.524589 2025] [mpm_event:notice] [pid 58259:tid 127891423499008] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat May 24 12:08:17.524672 2025] [core:notice] [pid 58259:tid 127891423499008] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Sat May 24 14:39:42.731167 2025] [mpm_event:notice] [pid 58259:tid 127891423499008] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Sun May 25 23:56:47.745064 2025] [mpm_event:notice] [pid 7096:tid 136014111462144] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun May 25 23:56:47.745139 2025] [core:notice] [pid 7096:tid 136014111462144] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Mon May 26 19:05:30.256616 2025] [mpm_event:notice] [pid 7096:tid 136014111462144] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Tue May 27 10:21:25.401401 2025] [mpm_event:notice] [pid 32434:tid 135693417026304] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue May 27 10:21:25.401469 2025] [core:notice] [pid 32434:tid 135693417026304] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Tue May 27 19:14:02.957337 2025] [mpm_event:notice] [pid 32434:tid 135693417026304] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed May 28 14:41:49.812263 2025] [mpm_event:notice] [pid 132456:tid 134142583087872] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed May 28 14:41:49.812324 2025] [core:notice] [pid 132456:tid 134142583087872] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Wed May 28 20:56:31.898790 2025] [mpm_event:notice] [pid 132456:tid 134142583087872] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Wed May 28 23:39:42.759595 2025] [mpm_event:notice] [pid 34798:tid 126495023911680] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed May 28 23:39:42.759662 2025] [core:notice] [pid 34798:tid 126495023911680] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Thu May 29 01:13:58.406984 2025] [mpm_event:notice] [pid 34798:tid 126495023911680] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu May 29 09:57:12.559157 2025] [mpm_event:notice] [pid 119809:tid 140389250814720] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu May 29 09:57:12.559228 2025] [core:notice] [pid 119809:tid 140389250814720] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Thu May 29 09:57:31.443753 2025] [mpm_event:notice] [pid 119809:tid 140389250814720] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu May 29 09:57:33.114094 2025] [mpm_event:notice] [pid 120130:tid 140690303697664] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu May 29 09:57:33.114180 2025] [core:notice] [pid 120130:tid 140690303697664] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
+[Thu May 29 09:58:05.535593 2025] [mpm_event:notice] [pid 120130:tid 140690303697664] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+[Thu May 29 10:24:04.491933 2025] [mpm_event:notice] [pid 123743:tid 134698380387072] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Thu May 29 10:24:04.492016 2025] [core:notice] [pid 123743:tid 134698380387072] AH00094: Command line: '/home/burak/.config/Local/lightning-services/apache-2.4.43+11/bin/linux/bin/httpd -D FOREGROUND -f /home/burak/.config/Local/run/I9OpGBmNu/conf/apache/apache2.conf'
